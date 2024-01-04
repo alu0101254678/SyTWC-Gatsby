@@ -1,8 +1,10 @@
+// Importa las bibliotecas necesarias
 import * as React from "react"
 import Layout from "../components/layout"
 import { StaticImage } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
+// Define los estilos para varios elementos de la página
 const pageStyles = {
   color: "#232129",
   padding: 96,
@@ -80,6 +82,7 @@ const badgeStyle = {
   lineHeight: 1,
 }
 
+// Define los enlaces y la información asociada que se mostrará en la página
 const links = [
   {
     text: "Tutorial",
@@ -126,6 +129,7 @@ const links = [
   },
 ]
 
+// Define el componente IndexPage
 const IndexPage = () => {
   return (
     <Layout>
@@ -185,6 +189,8 @@ const IndexPage = () => {
   )
 }
 
+// Exporta el componente IndexPage
 export default IndexPage
 
+// Define el componente Head que establece el título de la página
 export const Head = () => <title>Home Page</title>

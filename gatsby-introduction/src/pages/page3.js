@@ -1,8 +1,9 @@
-// page3.js
+// Importa las bibliotecas necesarias
 import * as React from "react"
 import Layout from "../components/layout"
 import { Link } from "gatsby"
 
+// Define el componente Page3
 const Page3 = () => {
   return (
     <Layout>
@@ -16,4 +17,5 @@ const Page3 = () => {
   )
 }
 
+// Exporta el componente Page3
 export default Page3

@@ -1,6 +1,7 @@
-// layout.js
+// Importa las bibliotecas necesarias
 import * as React from "react"
 
+// Define el componente Layout que incluye el encabezado, el contenido principal y el pie de página
 const Layout = ({ children }) => {
   return (
     <div>
@@ -15,4 +16,5 @@ const Layout = ({ children }) => {
   )
 }
 
+// Exporta el componente Layout
 export default Layout
