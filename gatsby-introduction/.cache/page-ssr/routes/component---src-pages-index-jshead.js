@@ -2948,7 +2948,7 @@ const IndexPage = () => {
   }, "src/pages/index.js"), " to see this page update in real-time. \uD83D\uDE0E"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(gatsby_plugin_image__WEBPACK_IMPORTED_MODULE_3__.StaticImage, {
     src: "../images/my-image.jpg",
     alt: "Descripci\xF3n de la imagen",
-    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/2718574491.json */ "./.cache/caches/gatsby-plugin-image/2718574491.json")
+    __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/4190234682.json */ "./.cache/caches/gatsby-plugin-image/4190234682.json")
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("ul", {
     style: listStyles
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("li", {
@@ -4594,9 +4594,9 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/2718574491.json":
+/***/ "./.cache/caches/gatsby-plugin-image/4190234682.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/2718574491.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/4190234682.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
